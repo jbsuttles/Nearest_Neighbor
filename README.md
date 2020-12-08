@@ -4,6 +4,6 @@ The Inventory Management System has the following features:
 - Display package information and delivery status of all packages
 - Display package information and delivery status by user entered time frame
 
-Technology Used:
+Technology used:
 - Python
  
